@@ -1,2 +1,8 @@
-
+form input {
+	border: 1px solid grey;
+	border-radius: 8px;
+	min-width: 100px;
+	/* height: 29px; */
+	background-color: solid grey;
+}
 /* Your CSS Code here. */
